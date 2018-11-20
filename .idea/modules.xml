@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/1-cloudDay04/1-cloudDay04.iml" filepath="$PROJECT_DIR$/1-cloudDay04/1-cloudDay04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Algorithm/Algorithm.iml" filepath="$PROJECT_DIR$/Algorithm/Algorithm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Web-Spider/Web-Spider.iml" filepath="$PROJECT_DIR$/../Web-Spider/Web-Spider.iml" />
+      <module fileurl="file://E:/百度网盘视频/传智播客大数据就业班完整版/课件代码文档资料/day05/cloudDay05/cloudDay05.iml" filepath="E:/百度网盘视频/传智播客大数据就业班完整版/课件代码文档资料/day05/cloudDay05/cloudDay05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/practice/practice.iml" filepath="$PROJECT_DIR$/practice/practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test/spring-ioc.iml" filepath="$PROJECT_DIR$/test/spring-ioc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springIOC/springIOC.iml" filepath="$PROJECT_DIR$/springIOC/springIOC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tesnikflumemysqlsink/tesnikflumemysqlsink.iml" filepath="$PROJECT_DIR$/tesnikflumemysqlsink/tesnikflumemysqlsink.iml" />
+    </modules>
+  </component>
+</project>

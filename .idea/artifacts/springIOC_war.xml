@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="springIOC:war">
+    <output-path>$PROJECT_DIR$/springIOC/target</output-path>
+    <root id="archive" name="spring-IOC-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="springIOC:war exploded" />
+    </root>
+  </artifact>
+</component>
